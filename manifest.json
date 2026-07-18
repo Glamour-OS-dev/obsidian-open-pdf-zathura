@@ -1,0 +1,10 @@
+{
+  "id": "open-pdf-zathura",
+  "name": "Open PDF in Zathura",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "Abre el PDF actual con Zathura.",
+  "author": "Jose Manuel Morales",
+  "authorUrl": "https://github.com/Glamour-OS-dev",
+  "isDesktopOnly": true
+}
